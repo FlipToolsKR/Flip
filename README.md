@@ -11,7 +11,7 @@
 
 ## 소개
 
-<img src="assets/screenshot_1.png" width="600">
+<img src="assets/screenshot_1.png" width="600"> <br />
 **Flip**은 LG 폴더 1, 2 사용자들을 위한 최적의 커스텀 툴입니다. <br />
 현재 알파 버전 테스트 단계입니다.
 
