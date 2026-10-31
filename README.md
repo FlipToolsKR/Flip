@@ -18,7 +18,7 @@
 ## 설치
 
 1. [Flip 릴리즈](https://github.com/FlipToolsKR/Flip/releases)에 들어갑니다.
-2. **Flip_Installer.exe** 파일을 다운로드합니다.
+2. **Flip_Setup.exe** 파일을 다운로드합니다.
 3. 실행 후 설치합니다.
 
 ## 도움을 주신 분들
