@@ -15,8 +15,6 @@
 **Flip**은 LG 폴더 1, 2 사용자들을 위한 최적의 커스텀 툴입니다. <br />
 현재 알파 버전 테스트 단계입니다.
 
-<br />
-
 ## 설치
 
 1. [Flip 릴리즈](https://github.com/FlipToolsKR/Flip/releases)에 들어갑니다.
