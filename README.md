@@ -5,7 +5,7 @@
 
 # Flip - LG 폴더를 다시, 위대하게.
 
-[<img src="https://img.shields.io/badge/alpha-v0.0.3-ㅎㄱㄷ두?style=flat&logoColor=white" />]() 
+[<img src="https://img.shields.io/badge/alpha-v0.0.3.1-ㅎㄱㄷ두?style=flat&logoColor=white" />]() 
 
 </div> 
 
