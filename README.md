@@ -9,7 +9,7 @@
 
 [![Release](https://img.shields.io/github/v/release/FlipToolsKR/Flip?include_prereleases&label=release&color=12b76a&style=flat)](https://github.com/FlipToolsKR/Flip/releases)
 [![Downloads](https://img.shields.io/github/downloads/FlipToolsKR/Flip/total?label=downloads&color=4f46e5&style=flat)](https://github.com/FlipToolsKR/Flip/releases)
-[![License](https://img.shields.io/github/license/FlipToolsKR/Flip?color=0ea5e9&style=flat)](LICENSE)
+[![License](https://img.shields.io/github/license/FlipToolsKR/Flip?color=0ea5e9)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(64--bit)-0078D4?style=flat)](#설치-방법)
 
 </div>
